@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Shooter-Game.data.unityweb",
+"wasmCodeUrl": "Shooter-Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Shooter-Game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
